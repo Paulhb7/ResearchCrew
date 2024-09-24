@@ -6,8 +6,6 @@
 
 </div>
 
-ResearchCrew Project
-
 Welcome to the ResearchCrew project, powered by CrewAI. This project is designed to set up a multi-agent AI system that facilitates collaboration between agents to complete complex research tasks. It leverages CrewAI’s flexible framework to orchestrate these interactions, empowering your agents to work collectively toward a common goal.
 
 ## Installation
